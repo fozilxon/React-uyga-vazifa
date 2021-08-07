@@ -1,0 +1,55 @@
+.box2{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.body-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.card{
+    width: 120px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background: #FEFEFF;
+     box-shadow: 0px 100px 80px rgba(41, 72, 152, 0.05), 0px 64.8148px 46.8519px rgba(41, 72, 152, 0.037963), 0px 38.5185px 25.4815px rgba(41, 72, 152, 0.0303704), 0px 20px 13px rgba(41, 72, 152, 0.025), 0px 8.14815px 6.51852px rgba(41, 72, 152, 0.0196296), 0px 1.85185px 3.14815px rgba(41, 72, 152, 0.012037);
+     border-radius: 1;
+     margin-top: 80px;
+     
+}
+
+.body{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+.ferari-header{
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+    margin-left: 50px;
+    font-weight: 200;
+}
+
+.ferari-card{
+    flex: 1;
+}
+
+.ferari-body{
+    /* margin-top: 40px; */
+    margin-left: 40px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.fer-rasm{
+    margin-top: 40px;
+}
