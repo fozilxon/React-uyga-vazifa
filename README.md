@@ -1,1 +1,1 @@
-<img src={navbarImg}/>
+<img src='images.png'/>
